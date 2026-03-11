@@ -15,7 +15,7 @@ Dalam membangun sistem skala *enterprise*, saya menggunakan teknologi berikut:
 ---
 
 ### 🚀 Highlight Project
-* ☁️ **[FinCloud B2B/B2C Ecosystem](https://github.com/USERNAME-GITHUB-KAMU/NAMA-REPO-FINCLOUD)** Platform *All-in-One* untuk penyediaan server *hosting/game* otomatis, *Payment Gateway* (QRIS), dan pusat *Top-Up* PPOB (*Host-to-Host*). Sistem ini mengutamakan keamanan tinggi (*Strict IP Whitelisting* & *MD5 Signature*).
+* ☁️ **[FinCloud B2B/B2C Ecosystem](https://github.com/fins21-cpm/FinCloud-API)** Platform *All-in-One* untuk penyediaan server *hosting/game* otomatis, *Payment Gateway* (QRIS), dan pusat *Top-Up* PPOB (*Host-to-Host*). Sistem ini mengutamakan keamanan tinggi (*Strict IP Whitelisting* & *MD5 Signature*).
 
 ---
 
